@@ -1,0 +1,13 @@
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\bin\Debug\netcoreapp3.1\PruebaGenericos.exe
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\bin\Debug\netcoreapp3.1\PruebaGenericos.deps.json
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\bin\Debug\netcoreapp3.1\PruebaGenericos.runtimeconfig.json
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\bin\Debug\netcoreapp3.1\PruebaGenericos.runtimeconfig.dev.json
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\bin\Debug\netcoreapp3.1\PruebaGenericos.dll
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\bin\Debug\netcoreapp3.1\PruebaGenericos.pdb
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\obj\Debug\netcoreapp3.1\PruebaGenericos.csprojAssemblyReference.cache
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\obj\Debug\netcoreapp3.1\PruebaGenericos.AssemblyInfoInputs.cache
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\obj\Debug\netcoreapp3.1\PruebaGenericos.AssemblyInfo.cs
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\obj\Debug\netcoreapp3.1\PruebaGenericos.csproj.CoreCompileInputs.cache
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\obj\Debug\netcoreapp3.1\PruebaGenericos.dll
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\obj\Debug\netcoreapp3.1\PruebaGenericos.pdb
+C:\Users\Lex Aguilar\Desktop\tt\PruebaGenericos\obj\Debug\netcoreapp3.1\PruebaGenericos.genruntimeconfig.cache
